@@ -2,7 +2,7 @@ pe-deal-memo-templates
 
 # PE / M&A Deal Memo & IC Paper Templates
 
-Open-source templates for investment committee (IC) papers and deal memos — structured around real transaction advisory experience at PwC and EY, Mumbai.
+Open-source templates for investment committee (IC) papers and deal memos - structured around real transaction advisory experience at PwC and EY, Mumbai.
 
 These templates reflect the structure and logic used in actual IC presentations across buy-side and sell-side mandates.
 
@@ -12,15 +12,15 @@ These templates reflect the structure and logic used in actual IC presentations 
 
 An Investment Committee (IC) paper is the formal document presented to a fund's investment committee before a deal is approved. It must answer five questions with evidence:
 
-1. **Why this business?** — Strategic rationale and market thesis
-2. **Why now?** — Timing, competitive dynamics, founder/management context
-3. **Is the price fair?** — Valuation approach, comparable transactions, entry multiple
-4. **What could go wrong?** — Key risks and mitigants
-5. **How do we make money?** — Return pathway (growth, margin expansion, multiple re-rating, exit)
+1. **Why this business?** - Strategic rationale and market thesis
+2. **Why now?** - Timing, competitive dynamics, founder/management context
+3. **Is the price fair?** - Valuation approach, comparable transactions, entry multiple
+4. **What could go wrong?** - Key risks and mitigants
+5. **How do we make money?** - Return pathway (growth, margin expansion, multiple re-rating, exit)
 
 ---
 
-## Template 1 — Buy-side IC Paper Structure
+## Template 1 - Buy-side IC Paper Structure
 
 ```
 DEAL NAME | CONFIDENTIAL | DATE
@@ -110,7 +110,7 @@ SECTION 9: RECOMMENDATION
 
 ---
 
-## Template 2 — One-Page Deal Memo (for early-stage screening)
+## Template 2 - One-Page Deal Memo (for early-stage screening)
 
 Used for initial deal screening before a full IC paper is warranted.
 
@@ -153,6 +153,6 @@ NEXT STEP
 
 ## About This Repository
 
-Built by **Pushpank Jain** — Chartered Accountant (ICAI, 2024), Associate at PwC Financial Due Diligence, Mumbai.
+Built by **Pushpank Jain** - Chartered Accountant (ICAI, 2024), Associate at PwC Financial Due Diligence, Mumbai.
 
 📧 Pushpankjn2002@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/pushpankjain)
